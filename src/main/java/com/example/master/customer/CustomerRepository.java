@@ -10,7 +10,7 @@ public class CustomerRepository implements CustomerRepo{
 
         // TODO CONNECT TO REAL DB
         return Collections.singletonList(
-                new Customer(1L, "TODO: Implemet real db", "todo")
+                new Customer(1L, "TODO: Implemet real db", "todo","email@gmail.com")
 
         );
     }
