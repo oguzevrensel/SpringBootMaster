@@ -8,6 +8,7 @@ class MasterApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
